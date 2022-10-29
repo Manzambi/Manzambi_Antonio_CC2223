@@ -3,6 +3,8 @@
 
 ##  Descripcion del Sistema
 
+![pizzas2](../main/Docs/Hito%200/imagenes/pizzas2.jpeg)
+
 PizzaHut es una Alicacion que permite gestionar pedidos de pizzas, donde incluen dos Roles que son: el Order Manager -> que se responsabilisa de gestionar los pedidos de los clientes, y los customers, los que se encargan de hacer el pedido.
 
 El Order Manager puede visualizar el numero de pedidos, con sus respectivos clientes asociados a pedidos, el mismo puede eliminar los pedidos una vez que estes hayan sido suplidos y realizados, ademas pueden crear pedidos en caso de que los clientes prefieran hacerla por medio de llamada telefonica, el mismo Order Manager puede registrar estas informaciones y editarlas.
