@@ -1,3 +1,3 @@
 # Hito 0
-#### [DESCRIPCION DEL PROBLEMA](README.md)
+#### [DESCRIPCION DEL PROBLEMA](./descripcionProblema.md)
 #### CONFIGURACION DEL SISTEMA
