@@ -7,7 +7,7 @@
 ## Creacion de Pares de Claves 
      La Creacion de par de claves la hicimos ejecutando el comando: ssh-keygen -t ed25519 -C "manz********.es"
      para visualizar los pasos y los procedimientos presione el link abajo visualizar Creacion de Claves.
-   [Visualizar creacion de Claves](../ConfiguracionVisual/CreacionClaves.md)
+   [Visualizar creacion de Claves](../Hito%200/ConfiguracionVisual/CreacionClaves.md)
    
 ## Configuracion del Nombre y Correo del GIT
     La configuracion del nombre y el correo de git usamos el comando git config --global user.name "Mi Nombre" para el nombre
