@@ -9,7 +9,7 @@ El Order Manager puede visualizar el numero de pedidos, con sus respectivos clie
 
 La aplicacion cuenta con un listado de las pizzas disponibles al momentos con sus respectivos precios, el cliente tiene la posiblidad de acceder al menu, visualizar los precios y los tamaños de los mmismos y sus respectivos sabores, desde alli pueden hacer la solicitud de la pizza que vayan a elegir.
 
-Para eso ellos tendran que rellenar sus datos y decidir el modo de recepcion, si prefieren recoger personalmente o una entrega a domicilio para eso se cobra una taxa adiccionales .... 
+Para eso ellos tendran que rellenar sus datos y decidir el modo de recepcion, si prefieren recoger personalmente o una entrega a domicilio para eso se cobra una taxa adiccional... 
 
 ## ⬇️
 
