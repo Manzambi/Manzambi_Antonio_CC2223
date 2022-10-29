@@ -1,6 +1,6 @@
 # PizzaHut
 ### Descripcion del Sistema
-    PizzaHut es una Alicacion que permite gestionar pedidos de pizzas, donde incluen dos Roles que son: el 
+    PizzaHut es una Aplicacion que permite gestionar pedidos de pizzas, donde incluen dos Roles que son: el 
     Order Manager -> que se responsabilisa de gestionar los pedidos de los clientes, y los customers, los que 
     se encargan de hacer el pedido.
 
