@@ -15,3 +15,6 @@
 
     Para eso ellos tendran que rellenar sus datos y decidir el modo de recepcion, si prefieren recoger personalmente o una 
     entrega a domicilio para eso se cobra una taxa adiccional...
+    
+    
+  [Resumen](https://github.com/Manzambi/Manzambi_Antonio_CC2223/tree/main/Docs/Hito%200)
