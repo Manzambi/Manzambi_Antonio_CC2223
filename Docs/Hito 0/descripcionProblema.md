@@ -1,4 +1,5 @@
-# PizzaHut
+# 🍕 PizzaHut 🍕
+-------------------------------------------------------------------------------------------------------------
 ### Descripcion del Sistema
     PizzaHut es una Aplicacion que permite gestionar pedidos de pizzas, donde incluen dos Roles que son: el 
     Order Manager -> que se responsabilisa de gestionar los pedidos de los clientes, y los customers, los que 
@@ -17,4 +18,6 @@
     entrega a domicilio para eso se cobra una taxa adiccional...
     
     
-  [Resumen](https://github.com/Manzambi/Manzambi_Antonio_CC2223/tree/main/Docs/Hito%200)
+   Esto es solo parte de la descripcion, para una descripcion mas detallada [Clica aqui..](https://github.com/Manzambi/Manzambi_Antonio_CC2223)
+   
+  [Resumen ](https://github.com/Manzambi/Manzambi_Antonio_CC2223/tree/main/Docs/Hito%200)
