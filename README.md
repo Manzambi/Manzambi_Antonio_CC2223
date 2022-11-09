@@ -77,9 +77,9 @@ Los Clientes Podran saber del menu del dia, apartir de la misma aplicacion sin n
   
 Para Aceder el Hito 0 [clica aqui⬇️](https://github.com/Manzambi/Manzambi_Antonio_CC2223/tree/main/Docs/Hito%200)
 
-Para Aceder el Hito 1 [clica aqui⬇️](https://github.com/Manzambi/Manzambi_Antonio_CC2223/tree/main/Docs/Hito%200)
+Para Aceder el Hito 1 [clica aqui⬇️](https://github.com/Manzambi/Manzambi_Antonio_CC2223/tree/main/Docs/Hito%201)
 
-Para Aceder el Hito 2  [clica aqui⬇️](https://github.com/Manzambi/Manzambi_Antonio_CC2223/tree/main/Docs/Hito%200)
+Para Aceder el Hito 2  [clica aqui⬇️](https://github.com/Manzambi/Manzambi_Antonio_CC2223/tree/main/)
 
 Para aceder al Resume [clica aqui⬇️](https://github.com/Manzambi/Manzambi_Antonio_CC2223/tree/main/Docs/Hito%200)
 
