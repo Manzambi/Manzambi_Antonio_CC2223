@@ -1,8 +1,8 @@
 
 # Hito 0 📶
- 🔗  Para informaciones de la descripcion del Premolema clica en [DESCRIPCION DEL PROBLEMA](./descripcionProblema.md)
+ 🔗  Para informaciones de la descripcion del Premolema clica en [DESCRIPCION DEL PROBLEMA](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%200/descripcionProblema.md)
  
- 🔗 Para informacion acerca de la configuracion clica en [CONFIGURACION DEL SISTEMA](./ConfiguracionSistema.md)
+ 🔗 Para informacion acerca de la configuracion clica en [CONFIGURACION DEL SISTEMA](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%200/ConfiguracionSistema.md)
 
 # Hito 1 📶
 __________________________________________________________________________________________________________________________________________________
