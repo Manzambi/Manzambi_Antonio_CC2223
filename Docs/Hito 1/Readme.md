@@ -53,6 +53,10 @@ Los Clientes Podran saber del menu del dia, apartir de la misma aplicacion sin n
 
 🔗 Enlace para acceder a la [HU4- Como supervisor de los pedidos quiero consultar un listado de los pedidos registrados que faltan ser procesado](https://github.com/Manzambi/Manzambi_Antonio_CC2223/issues/4)
 
+🔗 Enlace para acceder a la [HU5 - Como Cliente, quiero gestionar mis planes de compras Mensuales](https://github.com/Manzambi/Manzambi_Antonio_CC2223/issues/6)
+
+🔗 Enlace para acceder a la [HU6 - Como supervisor quiero obtener el listado delos clientes que tienen deudas pendientes por pagar](https://github.com/Manzambi/Manzambi_Antonio_CC2223/issues/7)
+
 ### Extructuras iniciales de algunas clases ℹ️
  
  🔗 Extructura inicial de la [clase usuario cliente](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%201/src/Cliente/cliente.component.ts)
