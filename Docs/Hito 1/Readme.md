@@ -7,3 +7,11 @@
 🔗 Enlace para acceder a la  [HU3- Como supervisor de ventas, quiero consultar los pedidos de venta procesados clasificándolos por regiones de mayor entrega](https://github.com/Manzambi/Manzambi_Antonio_CC2223/issues/3)
 
 🔗 Enlace para acceder a la [HU4- Como supervisor de los pedidos quiero consultar un listado de los pedidos registrados que faltan ser procesado](https://github.com/Manzambi/Manzambi_Antonio_CC2223/issues/4)
+
+## Extructuras iniciales de algunas clases ℹ️
+ 
+ 🔗 Extructura inicial de la [clase usuario cliente](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%201/src/Cliente/cliente.component.ts)
+
+🔗 Extructura inicial de la [clase pizza](https://github.com/Manzambi/Manzambi_Antonio_CC2223/tree/main/Docs/Hito%201/src/Pizza)
+
+🔗 Extructura inicial de la [clase Administrador](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%201/src/AdmSistem/adm-sistema.component.ts)
