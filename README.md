@@ -7,6 +7,7 @@
 💸Proyecto eleborado por: Manzambi Antonio D.📱
 # :pizza:PizzaHut  🍽️:
 
+
 	📝Editor: Manzambi📝
 	
 	🇦🇴 Country : Angola 🇦🇴
@@ -18,7 +19,19 @@
 	♻️Process: milestone 1♻️ 
 
 	📸application name: PizzaHut📸
-
+	
+	📉Programming Language: Typescript 📉
+	
+	💹Backend Manager : NodeJs💹
+	
+	🉑FrameWork : Angular🉑
+	 
+	*️⃣ Instagram : NicksBigzzaggomez
+	
+	🗼youtube channel: manzambigomez
+	
+	⚠️ all rights reserved ©️ 2022
+	
 
 ##  📝 Descripcion del Sistema 📖
 
