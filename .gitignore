@@ -1,0 +1,18 @@
+
+fatlib
+*.lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.[oa]
+*~
+*.#
+**/.DS_Store
+# Ignore Mac DS_Store files
+
+/db/*.sqlite3
+/db/*.sqlite3-*
