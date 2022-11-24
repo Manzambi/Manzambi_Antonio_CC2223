@@ -88,7 +88,11 @@ Para las pruebas unitarias en javascript o typescript existen:
       
  
  
+![GenerandounanuevaSSH](./img/Clienteprueba.png)
 
+La foto de Arriba es la demostracion de una compilacion de todos los componentes, en la foto hay dos apartados lo de arriba es la parte de la configuracion de la biblioteca de aserciones para el [teste de la clase cliente](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%202/MyAplication__CC/pizzaHut/src/app/cliente/cliente.component.spec.ts), el apartado de bajo es la compilacion de los testes, como podemos ver hay 20 pruebas con exito.
+
+![GenerandounanuevaSSH](./img/PruebaDemostracionenelservidor.png)
 
 
 
