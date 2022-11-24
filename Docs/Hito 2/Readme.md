@@ -94,5 +94,16 @@ La foto de Arriba es la demostracion de una compilacion de todos los componentes
 
 ![GenerandounanuevaSSH](./img/PruebaDemostracionenelservidor.png)
 
+ ###### date edition: 22/Nov 📅
+ ###### Editor: Manzambi Antonio ✍️
+ ###### License ©️2022
+
+
+
+
+[Configuracion del Karma](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%202/MyAplication__CC/pizzaHut/karma.conf.js)
+
+
+
 
 
