@@ -23,13 +23,9 @@ ________________________________________________________________________________
 🔗 Extructura inicial de la [clase Administrador](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%201/src/AdmSistem/adm-sistema.component.ts)
 
 
-# Hito 2
+# Hito 2  📶 📶
 
----------------------------------------------------------------------------------------------------------------------------------------------
-## 💻  hito 2  📌
-
-  ### 🌝 Bien Venido al hito2 🔥
-  
+---------------------------------------------------------------------------------------------------------------------------------------------  
 ## Breves consideraciones
 
 Este proyecto se generó con [Angular CLI](https://github.com/angular/angular-cli) versión 11.0.4.
