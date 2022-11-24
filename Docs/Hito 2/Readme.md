@@ -81,7 +81,7 @@ Para las pruebas unitarias en javascript o typescript existen:
  Jest  - -- - - 🌠
  
  para los testes unitarios eligimos el framwork Karma, y la biblioteca de aserciones Jasmine ✴️.
- Karma es un framwork de pruebas que viene por defecto en Angular, en nuestro caso lo usamos para hacer los tests con el comando `ng test`, pero para eso hay que configurar la biblioteca de aserciones, y un par de configuraciones en Karma.config.js y en los spec.ts de cada componente en prueba. 
+ Karma es un framwork de pruebas que viene por defecto en Angular, en nuestro caso lo usamos para hacer los tests con el comando `ng test`, pero para eso hay que configurar la biblioteca de aserciones, y un par de configuraciones en [Karma.config.js](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%202/MyAplication__CC/pizzaHut/karma.conf.js) y en los spec.ts de cada componente en prueba. 
  
       obs: Los archivos spec.ts son los archivos que e generan en cada componente para la creacion d las pruebas de dichas componentes,
       es alli donde se crea las reglas, o bien es nuestra biblioteca.
