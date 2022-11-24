@@ -69,25 +69,25 @@ En la Actualidad Existen varios Framworks de Pruebas muchos de ellos ya incluen 
   Para el gestor de Paquetes y depencia usaremos `NPM`. ℹ️ `NPM` es el sistema de gestión de paquetes por defecto para Node.js, un entorno de ejecución para JavaScrip 
   Para utilizar el comando `NPM` tenemos que descargar node primero. `nodejs` es el entorno que nos brindara el gestor `NPM`. para eso procedemos del seguiente modo.
     
-![GenerandounanuevaSSH](./img/DescargadeNode.png)
+![GenerandounanuevaSSH](../main/Docs/Hito%202/img/DescargadeNode.png)
 
 Una vez descargada Lo instalamos. El paso de la instalacion de nodejs s super sencilla on esto basta seguir la sequencia de Next hasta concluir el proceso.
 
 una vez Concluida el proceso hicimos `node --version` este comando nos dira la version del node, y `npm --version` la version npm.
 
-![GenerandounanuevaSSH](./img/NPMYNODEversion.png)
+![GenerandounanuevaSSH](../main/Docs/Hito%202/img/NPMYNODEversion.png)
 
 una vez instalado nuestros gestores, procedemos a la instalacion de Expressjs. Pero antes nos movemos en la carpeta que pretendemos desarrollar nuestra api, y ejecutamos `npm init --yes` peste comando nos creara el [paquete.json](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%202/MyAplication__CC/ApiRest/package.json) en ellas estaran algunas configuraciones utiles para nuestro proyecto, una vez hecho eso procedemos a ejecutar  `npm install express -E` para la instalacion de express que sera  nuestro framwork rest.
 
-![GenerandounanuevaSSH](./img/UsandoNPMParaInstalarExpress.png)
+![GenerandounanuevaSSH](../main/Docs/Hito%202/img/UsandoNPMParaInstalarExpress.png)
 
 essas son la herramientas usadas, para el avance de los testes hicimos simulacion con los datos json de nuestra api usando postman, usando `npm run dev` o `node index.js` en este caso el [index.js](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%202/MyAplication__CC/ApiRest/index.js) es el nombre de nuestro ficheiro que posee los JSON. esto es para visualizacion. una vez ejecutado el comando, apartir de postman usando nuestro servidor local, podemos visualizar estos datos.  
 
-![GenerandounanuevaSSH](./img/getClientes.png)
+![GenerandounanuevaSSH](../main/Docs/Hito%202/img/getClientes.png)
 
 estos datos son capturados desde nuestro [cliente](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%202/MyAplication__CC/pizzaHut/src/app/cliente/cliente.component.ts) angular.
 
-![GenerandounanuevaSSH](./img/getClienteAngular.png)
+![GenerandounanuevaSSH](../main/Docs/Hito%202/img/getClienteAngular.png)
 
 para eso tenemos dos servidores(... 🔃), pero con puertos diferentes. ♍.. estos datos son recebids y son testeados ...
 
@@ -112,11 +112,11 @@ Para las pruebas unitarias en javascript o typescript existen:
       
  
  
-![GenerandounanuevaSSH](./img/Clienteprueba.png)
+![GenerandounanuevaSSH](../main/Docs/Hito%202/img/Clienteprueba.png)
 
 La foto de Arriba es la demostracion de una compilacion de todos los componentes, en la foto hay dos apartados lo de arriba es la parte de la configuracion de la biblioteca de aserciones para el [teste de la clase cliente](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%202/MyAplication__CC/pizzaHut/src/app/cliente/cliente.component.spec.ts), el apartado de bajo es la compilacion de los testes, como podemos ver hay 20 pruebas con exito.
 
-![GenerandounanuevaSSH](./img/PruebaDemostracionenelservidor.png)
+![GenerandounanuevaSSH](../main/Docs/Hito%202/img/PruebaDemostracionenelservidor.png)
 
  ###### date edition: 22/Nov 📅
  ###### Editor: Manzambi Antonio ✍️
