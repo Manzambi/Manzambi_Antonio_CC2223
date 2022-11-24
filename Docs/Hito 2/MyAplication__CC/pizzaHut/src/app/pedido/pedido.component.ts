@@ -11,7 +11,7 @@ export class PedidoComponent implements OnInit {
 
 
   pizza:Pizza = new Pizza()
-  cliente: ClienteComponent = new ClienteComponent() 
+ // cliente: ClienteComponent = new ClienteComponent() 
   private _numPedido: number = 0;
   private _nombrePedido: String = ""; 
   private _nombreCliente: String = "maicom";

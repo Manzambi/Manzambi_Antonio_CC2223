@@ -10,7 +10,7 @@ import { Pizza } from '../classes/pizza';
 export class ProductPizzaComponent implements OnInit {
 
   
-  constructor(private clienteHttp:HttpClient) { }
+  constructor() { }
   
   localhostClientes = "http://localhost:3000/api/clientes"
   piza:Pizza = new Pizza()
@@ -79,10 +79,7 @@ export class ProductPizzaComponent implements OnInit {
 
 
   ngOnInit(): void {
-    this.clienteHttp.get("http://localhost:3000/api/clientes").subscribe(res=> 
-      { this.pizas = res;
-        console.log("este es el console "+this.pizas)
-    })
+   
   }
 
 }
