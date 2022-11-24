@@ -1,5 +1,6 @@
 import { Container } from '@angular/compiler/src/i18n/i18n_ast';
 import { Component, OnInit } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
 
 @Component({
   selector: 'app-cliente',
@@ -13,6 +14,7 @@ export class ClienteComponent implements OnInit {
   private _direccionDom: string = "calle del beiro";
   private _telefono: number = 613625912;
   varaux:any
+  clientes:any= []
   // getter del numero de pedido
   public get numeroPedido() {
     return this._numeroCliente;
@@ -70,9 +72,13 @@ export class ClienteComponent implements OnInit {
     }
     return "is full"
   }
-  constructor() { }
+  constructor(private clienteHttp:HttpClient) { }
 
   ngOnInit(): void {
+    this.clienteHttp.get("http://localhost:3000/api/clientes").subscribe(res=> 
+      { this.clientes = res;
+        console.log("este es el console "+this.clientes)
+    })
   }
 
 }

@@ -11,7 +11,7 @@ import { PedidoComponent } from './pedido/pedido.component';
 
 export class AppComponent {
   title = 'pizzaHut';
-   cliente:ClienteComponent = new ClienteComponent()
+  // cliente:ClienteComponent = new ClienteComponent()
    //pizza: ProductPizzaComponent = new ProductPizzaComponent()
    pedido: PedidoComponent = new PedidoComponent()
 
