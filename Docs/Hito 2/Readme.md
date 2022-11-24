@@ -61,5 +61,34 @@ essas son la herramientas usadas, para el avance de los testes hicimos simulacio
 
 ![GenerandounanuevaSSH](./img/getClientes.png)
 
-estos datos eran capturados desde nuestro font angular apartir de la clase cliente
+estos datos son capturados desde nuestro [cliente](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%202/MyAplication__CC/pizzaHut/src/app/cliente/cliente.component.ts) angular.
+
+![GenerandounanuevaSSH](./img/getClienteAngular.png)
+
+para eso tenemos dos servidores(... 🔃), pero con puertos diferentes. ♍.. estos datos son recebids y son testeados ...
+
+
+### Marco de Pruebas y La Biblioteca de Aserciones..
+
+Para las pruebas unitarias en javascript o typescript existen:
+
+(mochajs.org) ⭐
+
+ Jasmine ✴️   K@rm
+ 
+ Tape   --  🌟
+ 
+ Jest  - -- - - 🌠
+ 
+ para los testes unitarios eligimos el framwork Karma, y la biblioteca de aserciones Jasmine ✴️.
+ Karma es un framwork de pruebas que viene por defecto en Angular, en nuestro caso lo usamos para hacer los tests con el comando `ng test`, pero para eso hay que configurar la biblioteca de aserciones, y un par de configuraciones en Karma.config.js y en los spec.ts de cada componente en prueba. 
+ 
+      obs: Los archivos spec.ts son los archivos que e generan en cada componente para la creacion d las pruebas de dichas componentes,
+      es alli donde se crea las reglas, o bien es nuestra biblioteca.
+      
+ 
+ 
+
+
+
 
