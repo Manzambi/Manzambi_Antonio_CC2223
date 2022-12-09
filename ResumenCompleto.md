@@ -218,4 +218,11 @@ En este fichero podemos declarar todas las dependencias que necesitemos como con
 una etapa concreta de un [Dockerfile](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%203/Dockerfile).
 
 
+ ###### date edition: 7/Dec 📅
+ ###### Editor: Manzambi Antonio ✍️
+ ###### License ©️2022
 
+
+
+
+[inicio](https://github.com/Manzambi/Manzambi_Antonio_CC2223)
