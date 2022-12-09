@@ -16,7 +16,7 @@ aquí no hay fallo.
 Por el contrario, si estamos trabajando con Docker y no necesitamos recolectar ninguno de estos elementos, el proceso también es sencillo, basta 
 con añadir un stage en el Dockerfile que ejecute las pruebas de código, de modo que no se genere nuestra imagen Docker si estas no pasan.
 
-![GenerandounanuevaSSH](./Hito%203/img/im1.png)
+![GenerandounanuevaSSH](./img/im1.png)
 
 En el proceso de creación de esta imagen Docker, se ejecutarán las pruebas de código en una etapa y no nos tenemos que preocupar de nada más.
 
@@ -32,7 +32,7 @@ Un Dockerfile exclusivo para las pruebas
 Como sabemos, en un Dockerfile la imagen final se construye a partir del último FROM, por tanto, podemos pensar en crear un fichero Dockerfile 
 para las pruebas de código en la foto de abajo es la muestra de lo que hablamos
 
-![GenerandounanuevaSSH](./Hito%203/img/im2.png)
+![GenerandounanuevaSSH](./img/im2.png)
 
 Con esto ya estaría solucionado el problema porque vamos a tener una imagen sobre la que lanzar las pruebas. 
 En cambio, ¿cómo podemos tener un único fichero Dockerfile y generar dos imágenes distintas? Podemos utilizar para eso el modificador --target 
@@ -49,7 +49,7 @@ y después creamos la imagen Docker para pasar las pruebas de código con el com
            docker build --target test -f .\src\Servicio\Dockerfile .
 podemos comprobar que todo el proceso lo ha recuperado desde la cache:
  
- ![GenerandounanuevaSSH](./Hito%203/img/im3.png)
+ ![GenerandounanuevaSSH](./img/im3.png)
 
 ## Ejecutando solo una vez las pruebas de código dentro de Docker
 
