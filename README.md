@@ -96,7 +96,7 @@ Para Aceder el Hito 2  [clica aqui⬇️](https://github.com/Manzambi/Manzambi_A
 
 Para Aceder el Hito 3  [clica aqui⬇️](https://github.com/Manzambi/Manzambi_Antonio_CC2223/tree/main/Docs/Hito%202)
 
-Para aceder al Resume [clica aqui⬇️](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/ResumenCompleto.md)
+Para aceder al Resume [clica aqui⬇️](https://github.com/Manzambi/Manzambi_Antonio_CC2223/tree/main/Docs/Hito%203)
 
 TOBE CONTINUED.... 🔥
 
