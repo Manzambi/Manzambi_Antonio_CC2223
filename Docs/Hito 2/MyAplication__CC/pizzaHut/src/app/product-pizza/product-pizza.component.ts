@@ -8,7 +8,7 @@ import { Pizza } from '../classes/pizza';
   styleUrls: ['./product-pizza.component.css']
 })
 export class ProductPizzaComponent implements OnInit {
-
+//https://www.fixedbuffer.com/como-ejecutar-pruebas-de-codigo-dentro-de-contendores-docker/
   
   constructor() { }
   
