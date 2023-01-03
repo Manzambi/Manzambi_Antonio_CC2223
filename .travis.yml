@@ -4,6 +4,6 @@ cache:
      yarn : true
 
 script:
-      -ng test --watch = false
+      -ng test 
       -ng build --prod
 
