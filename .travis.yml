@@ -25,7 +25,7 @@ deploy:
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   keep-history: true
-  local-dir: ./dist/
+  local-dir: ./Docs/Hito%2/MyAplication__CC/pizzaHut/dist
   on:
       
       
