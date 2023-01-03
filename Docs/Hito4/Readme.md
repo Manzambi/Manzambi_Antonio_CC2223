@@ -18,7 +18,7 @@
    ![gf](../Hito4/img%20/img3.jpeg)
   
 
- ###### date edition: 2/Dic 📅 
+ ###### date edition: 2/Ene 📅 
  ###### Editor: Manzambi Antonio ✍️
  ###### License ©️2022
 
