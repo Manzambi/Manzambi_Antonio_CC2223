@@ -1,5 +1,5 @@
-language: typescript
-
+language: 
+        javascript
 cache:
      yarn : true
 
