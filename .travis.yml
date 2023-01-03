@@ -3,7 +3,16 @@ language:
 cache:
      yarn : true
 
+install:
+        -npm
+
 script:
       -ng test 
       -ng build --prod
+
+deploy:
+    local-dir: ./Docs/dist
+      
+      
+      
 
