@@ -1,0 +1,9 @@
+language: typescript
+
+cache:
+     yarn : true
+
+script:
+      -ng test --watch = false
+      -ng build --prod
+
