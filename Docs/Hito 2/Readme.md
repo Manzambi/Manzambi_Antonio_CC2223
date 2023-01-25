@@ -94,10 +94,6 @@ La foto de Arriba es la demostracion de una compilacion de todos los componentes
 
 ![GenerandounanuevaSSH](./img/PruebaDemostracionenelservidor.png)
 
- ###### date edition: 22/Nov 📅
- ###### Editor: Manzambi Antonio ✍️
- ###### License ©️2022
-
 
 
 
@@ -108,5 +104,20 @@ La foto de Arriba es la demostracion de una compilacion de todos los componentes
 # ♾️ Tests unitario para la parte del servidor ♾️
 para nuestra api hicimos los tests unitarios, de modo a verificar el funcionamiento de lo mismo.
 
+![GenerandounanuevaSSH](./img/apiPrueba.png)
+
+el [test de la api](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%202/MyAplication__CC/ApiRest/src/Assert/apiRestTest.js)
+el  [Packeg.json de la configuracion](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/Docs/Hito%202/MyAplication__CC/ApiRest/package.json)
+estoy cansado de documentar lo que falat explico personalmente.
+
+
 
 [inicio](https://github.com/Manzambi/Manzambi_Antonio_CC2223)
+
+
+
+
+
+ ###### date edition: 22/Nov 📅
+ ###### Editor: Manzambi Antonio ✍️
+ ###### License ©️2022
