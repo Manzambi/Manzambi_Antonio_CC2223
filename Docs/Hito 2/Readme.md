@@ -105,5 +105,8 @@ La foto de Arriba es la demostracion de una compilacion de todos los componentes
 
 
 
+# ♾️ Tests unitario para la parte del servidor ♾️
+para nuestra api hicimos los tests unitarios, de modo a verificar el funcionamiento de lo mismo.
+
 
 [inicio](https://github.com/Manzambi/Manzambi_Antonio_CC2223)
