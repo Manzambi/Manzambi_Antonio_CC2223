@@ -1,15 +1,33 @@
 {
-  "name": "apirest",
+  "name": "restApiNode",
   "version": "1.0.0",
-  "description": "apiRest_TestCC",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "test": "mocha ./src/Assert/apiRestTest.js",
+    "test2": "mocha "
   },
-  "author": "Manzambi Antonio",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "4.18.2"
+    "body-parser": "^1.20.1",
+    "ccc": "^0.5.1",
+    "chai-http": "^4.3.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "knex": "^2.4.2",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.1",
+    "underscore": "^1.12.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "nodemon": "^2.0.7",
+    "request": "^2.88.2"
   }
 }

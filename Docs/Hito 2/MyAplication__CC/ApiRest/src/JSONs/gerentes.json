@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "Manuel Eduardo",
+        "apellido": "Plicks",
+        "email": "manl@ggm"
+        
+    },
+    {
+        "id": 2,
+        "nombre": "joel beldad",
+        "apellido": "perez",
+        "email": "joel@ggm"
+
+    }
+]

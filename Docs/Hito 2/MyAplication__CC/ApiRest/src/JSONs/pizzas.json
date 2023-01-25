@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "sabor": "Queso",
+        "precio": 3.80
+    },
+    {
+        "id": 2,
+        "Sabor": "Atum",
+        "precio": 5.80
+    }
+]
