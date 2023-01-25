@@ -20,5 +20,5 @@ This project uses the following technologies:
 
 *For running execute the following command: npm run dev*
 
-*Visit my tech blog www.bravedeveloper.com*
-*Gerson Azabache Martínez*
+*Visit my instagram  https://www.instagram.com/nicksbigzzaggomez/*
+
