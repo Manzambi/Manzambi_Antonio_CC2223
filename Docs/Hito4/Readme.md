@@ -8,14 +8,15 @@
   
   el resultado del procesamiento se ve abajo.
   
-  ![gf](../Hito4/img%20/img1.jpeg)
+   ![gf](../Hito4/img/procesamiento.png)
   
   
   El objectivo esta vez es poder ejecutar las pruebas de forma continua cada vez que ocurra un evento especial, que en nuestro caso será un impulso a la rama principal. :fire:
   
    Se puede visualizar al archivo testeado en Travis desde la configuracion de [.travis.yml](https://github.com/Manzambi/Manzambi_Antonio_CC2223/blob/main/.travis.yml)
    
-   ![gf](../Hito4/img%20/img3.jpeg)
+  ![gf](../Hito4/img/testepaso.png)
+  
   
 
  ###### date edition: 2/Ene 📅 
